@@ -11,6 +11,7 @@ Welcome to the **Java DSA Practice** repository! This is a collection of data st
   - Linked Lists
   - Stacks
   - Queues
+  - Hash Table
   - Trees
   - Graphs
 - Algorithms for:
