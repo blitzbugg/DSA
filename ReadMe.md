@@ -1,6 +1,6 @@
-# Java DSA Practice
+# C++ DSA Practice
 
-Welcome to the **Java DSA Practice** repository! This is a collection of data structures and algorithms (DSA) problems and solutions implemented in Java. The repository is designed to help improve problem-solving skills and prepare for coding interviews.
+Welcome to the **C++ DSA Practice** repository! This is a collection of data structures and algorithms (DSA) problems and solutions implemented in C++. The repository is designed to help improve problem-solving skills and prepare for coding interviews.
 
 ---
 
